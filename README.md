@@ -1,1 +1,1 @@
-# CM_types
+# Types
